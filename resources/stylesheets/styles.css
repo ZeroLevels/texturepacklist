@@ -1,0 +1,40 @@
+html, body {min-width:796px;}
+
+a			{color:#ff8104;}
+a:hover		{color:#fff208;}
+
+
+/*Table Styling*/
+table {
+	border: 1px solid white;
+	color:white;
+	text-align: center;
+	border-spacing: 2px;
+	border-collapse:collapse;
+	width:85%;
+	min-width:639px;
+}
+
+tr.header {
+	font-size:1.4em;
+	border: 1px solid white;
+	background-color:#48494a;
+}
+
+tr.version {
+	font-size:3em;
+	font-weight: bold;
+	background-color:lightgray;
+	color:black;
+}
+
+tr.e {
+	font-size: 1.2em;
+	background-color:#28292a;
+}
+
+tr.e:hover	{background-color:#004020;}
+
+td			{border: 1px solid white;}
+td:hover		{background-color:#006040;}
+/*-------------*/
