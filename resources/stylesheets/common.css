@@ -4,7 +4,7 @@ body.lev0 {background-color: #181818;}
 body.lev1 {background-color: #282828;}
 body.lev2 {background-color: #383838;}
 
-pre,	p, body	{color:#fff;}
+pre,p,body{color:#fff;}
 
 pre {
 	white-space:pre-wrap;
